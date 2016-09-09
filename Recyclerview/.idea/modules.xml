@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Recyclerview.iml" filepath="$PROJECT_DIR$/Recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addheader/addheader.iml" filepath="$PROJECT_DIR$/addheader/addheader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonadapter/commonadapter.iml" filepath="$PROJECT_DIR$/commonadapter/commonadapter.iml" />
     </modules>
   </component>
 </project>
